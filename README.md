@@ -7,4 +7,4 @@ In the plugin settings user can specify API key, allow map scrolling, and style 
 
 Live Example: http://toronto-web-design.ca/projects/google_maps_plugin/home/
 
-
+Admin area example: http://toronto-web-design.ca/projects/google_maps_plugin/wp-content/plugins/myplugin/admin_area.png
